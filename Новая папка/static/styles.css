@@ -1,0 +1,25 @@
+.background{
+    background:url("/static/images/background.jpg")center/cover no-repeat fixed;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color:Yellow; text-align:center;
+}
+
+.card{
+    width: 200px;
+}
+.col{
+    width: 400px;
+}
+.card-img-top{
+    width: 200px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto
+}
